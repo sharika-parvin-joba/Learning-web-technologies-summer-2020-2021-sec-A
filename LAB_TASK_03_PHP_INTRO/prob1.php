@@ -1,4 +1,4 @@
-<? php
+<?php
 
 $length=10;
 $width=10;
