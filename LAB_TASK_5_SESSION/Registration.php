@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <th>
-<form>
+<form method="post" action="Registration.php">
 <fieldset>
 <legend>Registration</legend>
 

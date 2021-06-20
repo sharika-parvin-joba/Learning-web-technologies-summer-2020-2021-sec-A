@@ -8,7 +8,7 @@
 <tr>
 <th>
 <img src="pic1.jpg" height="100px" width="150px" align="Left" >
-<a href="Home.html"  >Home</a>|
+<a href="Home.php"  >Home</a>|
 <a href="Login.html" >Login</a>|
 <a href="Registration.html" >Register</a>
 </th>
@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <th>
-<form>
+<form method="post" action="Login.php">
 <fieldset>
 <legend>Login</legend>
 

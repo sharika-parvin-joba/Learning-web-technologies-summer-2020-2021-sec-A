@@ -7,9 +7,9 @@
 <tr>
 <th>
 <img src="pic1.jpg" height="100px" width="150px" align="Left" >
-<a href="Home.html"  >Home</a>|
-<a href="Login.html" >Login</a>|
-<a href="Registration.html" >Register</a>
+<a href="Home.php"  >Home</a>|
+<a href="Login.php" >Login</a>|
+<a href="Registration.php" >Register</a>
 </th>
 </tr>
 </thead><br>

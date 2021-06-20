@@ -20,12 +20,12 @@ Logged in as<a href=""  > Bob</a>|
 <b>Account</b><hr><br>
 <ul>
 <li>
-<a href="">Dashbox</a></li><br>
-<li><a href="">View Profile</a></li><br>
-<li><a href="">Edit Profile</a></li><br>
-<li><a href="">Change Profile Picture</a></li><br>
-<li><a href="">Change Password</a></li><br>
-<li><a href="">Logout</a></li><br>
+<a href="Dashboard.php">Dashbox</a></li><br>
+<li><a href="View_Profile.php">View Profile</a></li><br>
+<li><a href="Edit_Profile.php">Edit Profile</a></li><br>
+<li><a href="Profile_Picture.php">Change Profile Picture</a></li><br>
+<li><a href="Change_Password.php">Change Password</a></li><br>
+<li><a href="Logout.php">Logout</a></li><br>
 
 
 </ul>
