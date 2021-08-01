@@ -1,0 +1,50 @@
+
+.registration{
+
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.submitregistration{
+
+    border-radius: 9px;
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    margin: 22px 20px;
+    color: slategray;
+
+}
+
+#registration{
+
+    font-size: 25px;
+    color: lightslategray;
+}
+
+.login{
+
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+#submitlogin{
+
+    border-radius: 9px;
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    margin: 12px 20px;
+    color: slategray;
+
+}
+#login{
+
+    
+    font-size: 25px;
+    color: lightslategray;
+}
