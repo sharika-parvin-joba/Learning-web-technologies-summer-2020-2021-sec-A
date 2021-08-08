@@ -1,0 +1,94 @@
+.registration{
+    
+    
+    width: 80%;
+    padding: 12px 20px;
+    border: 1px solid black;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+
+
+}
+
+#registration{
+margin-left: 30%;
+margin-right: 50%;
+margin-bottom: 20%;
+text-align: center;
+
+
+}
+
+#submitregistration{
+
+    border-radius: 9px;
+    width: 120px;
+    height: 25px;
+    font-size: 15px;
+   
+}
+
+
+.login{
+    
+    
+    width: 80%;
+    padding: 12px 20px;
+    border: 1px solid black;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+
+
+}
+
+#login{
+margin-left: 30%;
+margin-right: 50%;
+margin-bottom: 20%;
+text-align: center;
+
+
+}
+
+#submitlogin{
+
+    border-radius: 9px;
+    width: 120px;
+    height: 25px;
+    font-size: 15px;
+   
+}
+
+.employee{
+    
+    
+    width: 80%;
+    padding: 12px 28px;
+    border: 1px solid black;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+    color: rgb(23, 7, 253);
+
+
+}
+
+#employee{
+margin-left: 30%;
+margin-right: 50%;
+margin-bottom: 20%;
+text-align: center;
+
+
+}
+
+#submitemployee{
+
+    border-radius: 9px;
+    width: 120px;
+    height: 25px;
+    font-size: 15px;
+   
+}
