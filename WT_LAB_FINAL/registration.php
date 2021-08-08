@@ -45,26 +45,26 @@ echo "null value found";
         <legend style="color:rgb(70, 70, 112); font-family: sans-serif; font-size: 20px;">Registration</legend>
 
         <div class='registration' id='empname'>
-        Employee Name:             <input type="text" name="empname" required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Employee Name:         <input type="text" name="empname" required> <a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div >
         <div class='registration'>
-        Company Name:             <input type="text" name="comname" required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Company Name:             <input type="text" name="comname" required> <a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div >
         <div class='registration'>
-        Contact No:            <input type="number" name="contact" required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Contact No:            <input type="number" name="contact" required> <a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div>
         <div class='registration'>
-        Username:         <input type="text" name="username" required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Username:         <input type="text" name="username" required> <a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div>
         <div class='registration'>
-        Password:         <input type="password" name="password" required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Password:         <input type="password" name="password" required> <a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div>
         
         
         
         <input id='submitregistration' type="submit" name="submit" value="Submit"><br>
         
-        Already a member?<a href="Login.php">Login now</a>
+        Already a member?<a href="login.php">Login now</a>
         
         </fieldset>
         

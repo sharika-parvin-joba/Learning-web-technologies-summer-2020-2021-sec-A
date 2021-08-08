@@ -2,9 +2,9 @@
 
 include('conn.php');
 
-$id=$_GET['empname'];
+$id=$_GET['id'];
 
-$q="DELETE FROM `admin` WHERE empname=$id ";
+$q="DELETE FROM `admin` WHERE id=$id ";
 
 mysqli_query($con,$q);
 

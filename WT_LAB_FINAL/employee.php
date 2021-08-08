@@ -32,19 +32,19 @@
         <legend style="color:rgb(70, 70, 112); font-family: sans-serif; font-size: 20px;">Employees Details</legend>
         
         <div class='employee'>
-        Company Name:             <input type="text" name="comname" required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Company Name:             <input type="text" name="comname" required><a href="update.php">update</a> <a href="delete.php">delete</a><br>
        </div>
        
        <div class='employee'>
-        Job title:          <input type="text" name="jobtitle"  required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Job title:          <input type="text" name="jobtitle"  required><a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div>
 
         <div class='employee'>
-        Job location:          <input type="text" name="joblocation"  required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Job location:          <input type="text" name="joblocation"  required><a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div>
 
         <div class='employee'>
-        Salary:          <input type="number" name="salary"  required><input type='button' name="update" value="upadate"><input type='button' name="delete" value="delete"><br>
+        Salary:          <input type="number" name="salary"  required><a href="update.php">update</a> <a href="delete.php">delete</a><br>
         </div>
      
         
